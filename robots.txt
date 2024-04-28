@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://nitrolego.github.io/al-foliotrial/sitemap.xml
+Sitemap: https://nitrolego.github.io/alfol2/sitemap.xml
